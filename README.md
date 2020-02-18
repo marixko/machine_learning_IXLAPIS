@@ -1,4 +1,4 @@
-# Machine Learning Hands-On - IX LAPIS
+# Machine Learning Hands-On @ IX LAPIS
 
 This material was created by:
 
