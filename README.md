@@ -10,33 +10,33 @@ This material was created by:
 ## HOW TO RUN
 ### Running in jupyter notebook
 
-Download the .ipynb file;
+- Download the .ipynb file;
 
-In your terminal, go to the directory where the .ipynb is;
+- In your terminal, go to the directory where the .ipynb is;
 
-Type jupyter-notebook;
+- Type jupyter-notebook;
 
-Inside jupyter, open the .ipynb file
+- Inside jupyter, open the .ipynb file
 
 ### Running in Google Colab (1)
 
-Open Google Colab: https://colab.research.google.com/
+- Open Google Colab: https://colab.research.google.com/
 
-Go to File > Open Notebook
+- Go to File > Open Notebook
 
-Select the GITHUB tab
+- Select the GITHUB tab
 
-Enter the link: https://github.com/marixko/machine_learning_IXLAPIS.git
+- Enter the link: https://github.com/marixko/machine_learning_IXLAPIS.git
 
-It will show you the .ipynb file, click the "Open notebook in a new tab" icon
+- It will show you the .ipynb file, click the "Open notebook in a new tab" icon
 
-Go to File > Save a copy in Drive
+- Go to File > Save a copy in Drive
 
 ### Running in Google Colab (2)
 
-Click in the .ipynb file listed on https://github.com/marixko/machine_learning_IXLAPIS
+- Click in the .ipynb file listed on https://github.com/marixko/machine_learning_IXLAPIS
 
-Click in "Open in Colab" button
+- Click in "Open in Colab" button
 
-Go to File > Save a copy in Drive
+- Go to File > Save a copy in Drive
 
